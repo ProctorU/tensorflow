@@ -125,7 +125,6 @@ def tf_workspace(path_prefix = "", tf_repo_name = ""):
         strip_prefix = "eigen-eigen-fd6845384b86",
         urls = [
             "https://mirror.bazel.build/bitbucket.org/eigen/eigen/get/fd6845384b86.tar.gz",
-            "https://bitbucket.org/eigen/eigen/get/fd6845384b86.tar.gz",
         ],
     )
 
